@@ -1,0 +1,12 @@
+package com.company;
+import java.util.Scanner;
+import static java.lang.Math.*;
+public class dogs extends animals
+{
+    void dogs()
+    {
+        System.out.println("Dogs bark");
+    }
+
+
+}
