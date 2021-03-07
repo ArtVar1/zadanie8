@@ -4,7 +4,7 @@ import static java.lang.Math.*;
 
 
 
-public class podklasa uno extends parent {
+public class podklasauno extends parent {
     void message()
     {
         System.out.println("To jest pierwsza podklasa");
