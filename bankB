@@ -3,7 +3,7 @@ import java.util.Scanner;
 import static java.lang.Math.*;
 
 
-public class bankB extends Bank {
+public class bankB extends bank {
     int sianko = 150;
     public void getBalance()
     {
