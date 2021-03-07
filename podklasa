@@ -1,0 +1,12 @@
+package com.company;
+import java.util.Scanner;
+import static java.lang.Math.*;
+
+
+
+public class podklasa uno extends parent {
+    void message()
+    {
+        System.out.println("To jest pierwsza podklasa");
+    }
+}
