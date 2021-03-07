@@ -1,0 +1,12 @@
+package com.company;
+import java.util.Scanner;
+import static java.lang.Math.*;
+
+
+public class bankA extends Bank {
+    int sianko = 100;
+    public void getBalance()
+    {
+        System.out.println("twoje sianko = " +sianko+ " USD");
+    }
+}
